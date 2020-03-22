@@ -10,7 +10,7 @@ namespace lab1
 
     class Process
     {
-        public int id;              // id процесса
+       // public int id;              // id процесса
         public Status status;       // состояние процесса
         public int priority;        // приоритет процесса
         public int timequant = 0;   // кол-во квантов, за который выполняется процесс
