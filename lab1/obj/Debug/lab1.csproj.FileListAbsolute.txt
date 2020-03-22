@@ -1,0 +1,27 @@
+C:\Users\cathe\Desktop\4 курс\ОС\lab1\lab1\bin\Debug\lab1.exe
+C:\Users\cathe\Desktop\4 курс\ОС\lab1\lab1\bin\Debug\lab1.pdb
+C:\Users\cathe\Desktop\4 курс\ОС\lab1\lab1\obj\Debug\lab1.csprojAssemblyReference.cache
+C:\Users\cathe\Desktop\4 курс\ОС\lab1\lab1\obj\Debug\lab1.Form1.resources
+C:\Users\cathe\Desktop\4 курс\ОС\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+C:\Users\cathe\Desktop\4 курс\ОС\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.cache
+C:\Users\cathe\Desktop\4 курс\ОС\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\cathe\Desktop\4 курс\ОС\lab1\lab1\obj\Debug\lab1.exe
+C:\Users\cathe\Desktop\4 курс\ОС\lab1\lab1\obj\Debug\lab1.pdb
+C:\Users\cathe\Desktop\!!!!\ОС\lab1\lab1\bin\Debug\lab1.exe
+C:\Users\cathe\Desktop\!!!!\ОС\lab1\lab1\bin\Debug\lab1.pdb
+C:\Users\cathe\Desktop\!!!!\ОС\lab1\lab1\obj\Debug\lab1.csprojAssemblyReference.cache
+C:\Users\cathe\Desktop\!!!!\ОС\lab1\lab1\obj\Debug\lab1.Form1.resources
+C:\Users\cathe\Desktop\!!!!\ОС\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+C:\Users\cathe\Desktop\!!!!\ОС\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.cache
+C:\Users\cathe\Desktop\!!!!\ОС\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\cathe\Desktop\!!!!\ОС\lab1\lab1\obj\Debug\lab1.exe
+C:\Users\cathe\Desktop\!!!!\ОС\lab1\lab1\obj\Debug\lab1.pdb
+E:\4 курс\операционные системы\lab1\lab1\bin\Debug\lab1.exe
+E:\4 курс\операционные системы\lab1\lab1\bin\Debug\lab1.pdb
+E:\4 курс\операционные системы\lab1\lab1\obj\Debug\lab1.csprojAssemblyReference.cache
+E:\4 курс\операционные системы\lab1\lab1\obj\Debug\lab1.Form1.resources
+E:\4 курс\операционные системы\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+E:\4 курс\операционные системы\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.cache
+E:\4 курс\операционные системы\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+E:\4 курс\операционные системы\lab1\lab1\obj\Debug\lab1.exe
+E:\4 курс\операционные системы\lab1\lab1\obj\Debug\lab1.pdb
